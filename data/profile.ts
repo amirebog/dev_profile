@@ -1,0 +1,2 @@
+export const profile = { name: 'Amir', role: 'Full-Stack Developer', username: 'amir', email: 'hello@amir.dev', location: 'Remote / Worldwide', bio: 'I’m a full-stack developer focused on building reliable products, thoughtful interfaces and scalable web applications. I enjoy turning complex ideas into simple, usable experiences.', currently: 'Building products and exploring new technologies', socials: { github: 'https://github.com', linkedin: 'https://linkedin.com' } }
+export type Profile = typeof profile

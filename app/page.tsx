@@ -1,0 +1,10 @@
+import { Navbar } from '@/components/navbar'
+import { Hero } from '@/components/hero'
+import { Projects } from '@/components/projects'
+import { About } from '@/components/about'
+import { StackSection } from '@/components/stack-section'
+import { Experience } from '@/components/experience'
+import { Github } from '@/components/github'
+import { Notes } from '@/components/notes'
+import { socialLinks } from '@/lib/portfolio-data'
+export default function Page(){return <div id="top"><Navbar/><main className="page-shell"><Hero/><About/><Projects/><StackSection/><Experience/><Github/><Notes/><section id="contact" className="contact-section" aria-labelledby="contact-title"><p className="eyebrow">07 / Contact</p><h2 id="contact-title">Have a project<br/>in <em>mind?</em></h2><p className="contact-subtitle">Let&apos;s build something useful.</p><div className="contact-links"><a className="button button-solid" href="mailto:hello@amir.dev">Email Me <span>↗</span></a><a className="button" href="https://github.com">GitHub <span>↗</span></a><a className="button" href="https://linkedin.com">LinkedIn <span>↗</span></a></div></section></main><footer className="site-footer"><div><a className="wordmark" href="#top">AMIR<span>.DEV</span></a><p>© 2026 AMIR</p></div><div className="footer-right"><div>{socialLinks.map((link)=><a key={link.label} href={link.href}>{link.label}</a>)}</div><small>Last updated 2026 · &lt;/&gt; crafted with TypeScript</small></div></footer></div>}

@@ -1,0 +1,1 @@
+export const stack = { languages: ['TypeScript','JavaScript','Python','SQL'], frontend: ['React','Next.js','Tailwind CSS','HTML','CSS'], backend: ['Node.js','PostgreSQL','Prisma','Redis'], tools: ['Git','GitHub','Docker','Linux','Figma'] }

@@ -1,0 +1,2 @@
+import { stack } from '@/data/stack'
+export function StackSection(){return <section id="stack" className="section" aria-labelledby="stack-title"><div className="section-heading"><span>03 / Stack</span></div><h2 id="stack-title">Tools I use to build things.</h2><div className="stack-categories">{Object.entries(stack).map(([category,items])=><div className="stack-category" key={category}><span>{category}</span><div>{items.map((item)=><b key={item}>{item}</b>)}</div></div>)}</div></section>}
