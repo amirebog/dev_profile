@@ -475,7 +475,7 @@ async function getGitHubDataFromApi() {
       }),
 
       next: {
-        revalidate: 3600,
+        revalidate: 300,
       },
     },
   )
@@ -530,7 +530,7 @@ async function githubRestFetch<T>(
       },
 
       next: {
-        revalidate: 3600,
+        revalidate: 300,
       },
     },
   )
