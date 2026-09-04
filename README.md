@@ -1,148 +1,221 @@
 <div align="center">
 
-# Hi, I'm Amir 👋
+# dev_profile
 
-### Full-Stack Developer · Open Source Builder · Software Engineer
+### A modern, code-focused developer profile website
 
-I build modern web applications, developer tools, automation systems, and scalable backend architectures.
+A minimal, fast, and highly customizable personal developer profile built with modern web technologies — designed to present projects, skills, experience, and developer activity through a clean technical interface.
 
-[![GitHub](https://img.shields.io/badge/GitHub-amirebog-181717?style=for-the-badge&logo=github)](https://github.com/amirebog)
-[![Profile](https://img.shields.io/badge/Profile-Dev_Profile-6366f1?style=for-the-badge&logo=code)](https://github.com/amirebog/dev_profile)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/amirebog/dev_profile)
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ✦ Overview
 
-I'm a developer focused on building **clean, scalable, and production-ready software**.
+`dev_profile` is a developer-oriented portfolio/profile website focused on **clarity, performance, and technical identity**.
 
-- 🚀 Building modern full-stack applications
-- 🧩 Designing scalable backend architectures
-- ⚡ Working with TypeScript, React, and Next.js
-- 🗄️ Working with PostgreSQL, Prisma, Redis, and modern data layers
-- 🤖 Building bots, automation systems, and developer tools
-- 🌐 Interested in open-source software and self-hosted infrastructure
-- 🛠️ Always experimenting with new technologies and better engineering patterns
+Instead of behaving like a traditional portfolio template, the interface is designed around a code-centric visual language — making the website feel closer to a developer workspace than a conventional marketing page.
 
----
+### Core goals
 
-## ⚡ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,angular,tailwind,html,css" alt="Frontend technologies" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,prisma,mongodb" alt="Backend technologies" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,bun,vscode" alt="Development tools" />
-</p>
+- Clean and modern developer-first UI
+- Fast page delivery and smooth interactions
+- Responsive experience across desktop, tablet, and mobile
+- Easy customization of profile and project data
+- Clear presentation of technical skills and projects
+- Architecture that can evolve alongside the project
 
 ---
 
-## 🧠 What I Build
+## ✨ Features
+
+- 🎯 Developer-focused landing page
+- 🧩 Modular sections and components
+- 💻 Code-inspired visual language
+- 📁 Project showcase
+- 🛠️ Technology / skills section
+- 📊 GitHub-oriented developer activity
+- 📱 Fully responsive layout
+- ⚡ Modern frontend architecture
+- 🎨 Customizable design system
+- 🌙 Dark-first interface
+- 🔗 Social and external profile links
+- ♻️ Reusable components
+
+---
+
+## 🖥️ Interface
+
+The design follows a technical, minimal aesthetic with an emphasis on:
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                        AMIR / DEV                           │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Web Apps        →  Next.js · React · TypeScript            │
-│  Backend         →  Node.js · APIs · Architecture           │
-│  Databases       →  PostgreSQL · Prisma · Redis             │
-│  Automation      →  Bots · Queues · Background Jobs        │
-│  Infrastructure  →  Linux · Docker · Nginx                  │
-│  Open Source     →  Developer Tools · Libraries              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Typography      →  Developer / Code oriented
+Layout          →  Minimal · Structured · Responsive
+Visuals         →  Dark · Clean · Technical
+Components      →  Modular · Reusable
+Content         →  Projects · Skills · Activity
+Experience      →  Fast · Accessible · Interactive
 ```
 
 ---
 
-## 🚧 Currently Building
+## ⚙️ Tech Stack
 
-> A collection of ambitious projects focused on modern web engineering, automation, developer experience, and scalable infrastructure.
+| Layer | Technologies |
+| --- | --- |
+| Framework | Next.js |
+| Language | TypeScript |
+| UI | React |
+| Styling | Tailwind CSS |
+| Animation | Framer Motion |
+| Icons | Lucide |
+| Tooling | Bun / Node.js |
+| Version Control | Git + GitHub |
 
-Some of my work includes:
-
-- **Nexor** — scalable communication platform architecture
-- **CS2 HUB** — automated Counter-Strike 2 news and market intelligence bot
-- **Zyrix** — modern developer-focused projects and tooling
-- **Developer Portfolio** — continuously evolving personal developer profile
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirebog&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirebog&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amirebog&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+> The stack may evolve as the project develops.
 
 ---
 
-## 📈 Contribution Graph
+## 📂 Project Structure
 
-<div align="center">
-
-[![Amir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirebog&theme=tokyo-night&hide_border=true)](https://github.com/amirebog)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![GitHub contribution snake](https://raw.githubusercontent.com/amirebog/amirebog/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 💡 Engineering Philosophy
-
-```ts
-const mindset = {
-  build: "simple",
-  architecture: "scalable",
-  code: "maintainable",
-  performance: "measurable",
-  learning: "continuous",
-  shipping: "consistent",
-};
+```text
+dev_profile/
+├── app/                # Application routes and layouts
+├── components/         # Reusable UI components
+├── data/               # Profile and project data
+├── public/              # Static assets
+├── styles/              # Global styling
+├── lib/                 # Utilities and application logic
+├── package.json
+├── tsconfig.json
+└── README.md
 ```
 
-> **Build things. Break things. Learn. Improve. Ship again.**
+> The exact structure can change as the application evolves.
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Getting Started
 
-If you're interested in software engineering, open source, ambitious side projects, or building something interesting together, feel free to connect.
+### Requirements
+
+Make sure you have a recent version of **Node.js** or **Bun** installed.
+
+### Clone
+
+```bash
+git clone https://github.com/amirebog/dev_profile.git
+cd dev_profile
+```
+
+### Install dependencies
+
+Using Bun:
+
+```bash
+bun install
+```
+
+Or npm:
+
+```bash
+npm install
+```
+
+### Start development server
+
+```bash
+bun dev
+```
+
+Or:
+
+```bash
+npm run dev
+```
+
+Then open:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 🧩 Customization
+
+Most personal content should be kept separate from the UI layer so the profile can be updated without rewriting components.
+
+Typical customization areas include:
+
+```text
+Profile information
+        ↓
+Projects
+        ↓
+Skills / technologies
+        ↓
+Social links
+        ↓
+Theme / visual system
+        ↓
+GitHub integration
+```
+
+This makes the project suitable as a reusable starting point for developer portfolios and personal profile websites.
+
+---
+
+## 📈 Performance & UX
+
+The project is designed with modern web performance principles in mind:
+
+- Minimal client-side JavaScript where possible
+- Component-based architecture
+- Responsive layouts
+- Optimized static assets
+- Semantic HTML
+- Accessible interactive elements
+- Fast navigation and lightweight UI
+
+---
+
+## 🔮 Roadmap
+
+- [x] Core profile interface
+- [x] Project showcase
+- [x] Developer-focused visual system
+- [x] Responsive layout
+- [ ] More advanced GitHub integration
+- [ ] Automated project metadata
+- [ ] Improved localization
+- [ ] Additional theme customization
+- [ ] More portfolio modules
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas, and improvements are welcome.
+
+If you find a bug or have an idea for improving the project, feel free to open an issue or submit a pull request.
+
+---
+
+## 📄 License
+
+This project is open source. Check the repository for the current license and usage terms.
+
+---
 
 <div align="center">
 
-### ⭐ If you find something useful here, consider giving it a star.
+### Built for developers who want their code to speak for itself.
 
-**Thanks for visiting my profile!** 🚀
+⭐ Star the repository if you like the project.
 
 </div>
